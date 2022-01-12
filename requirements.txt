@@ -17,7 +17,7 @@ Jinja2==2.11.2
 MarkupSafe==1.1.1
 numpy==1.18.5
 pandas==1.0.4
-pipenv==2020.6.2
+pipenv==2022.1.8
 plotly==4.8.1
 python-dateutil==2.8.1
 pytz==2020.1
